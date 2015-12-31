@@ -1,0 +1,11 @@
+email: cakirmehmete@gmail.com
+fullname: 'Emre Cakir'
+title: Developer
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$rjsie4Fd2ohpdoIE4NXDce4J1DvrHcBP3Grk7ueAmAk8oGqsDFpHy
